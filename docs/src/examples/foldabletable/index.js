@@ -6,7 +6,7 @@ import FoldableTableWithHeader from './FoldableTableWithHeader'
 import FoldableTableWithoutHeader from './FoldableTableWithoutHeader'
 import FoldableTableCustomState from './FoldableTableCustomState'
 
-class FaldableComponentTest extends React.Component {
+class FoldableComponentTest extends React.Component {
     render() {
 
         return (
@@ -27,4 +27,4 @@ class FaldableComponentTest extends React.Component {
     }
 }
 
-export default FaldableComponentTest
+export default FoldableComponentTest
