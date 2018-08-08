@@ -1,12 +1,12 @@
 {
-  "name": "react-table",
+  "name": "@ispras-dept.14/react-table",
   "version": "6.8.6",
   "description": "A fast, lightweight, opinionated table and datagrid built on React",
   "license": "MIT",
-  "homepage": "https://github.com/react-tools/react-table#readme",
+  "homepage": "https://github.com/SavchenkoValeriy/react-table#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/react-tools/react-table.git"
+    "url": "git+https://github.com/SavchenkoValeriy/react-table.git"
   },
   "keywords": [
     "react",
